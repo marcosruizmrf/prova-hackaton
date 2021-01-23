@@ -1,5 +1,5 @@
 {
-  "name": "customers",
+  "name": "cards",
   "version": "0.0.1",
   "description": "How to create an API using Node.js",
   "main": "server.js",
